@@ -1,5 +1,8 @@
 # Spaceship 3D Modeling
 
+![image](https://github.com/user-attachments/assets/ecf60c43-da72-4ff4-8f67-f592174cc61e)
+
+
 ## Project Overview
 Spaceship 3D Modeling is a project focused on creating detailed 3D models of spaceships using Rust.
 
