@@ -1,7 +1,3 @@
-It appears that the `README.md` file does not exist yet. Since you're in the process of creating it, here's a suggested structure for your README file:
-
----
-
 # Spaceship 3D Modeling
 
 ## Project Overview
@@ -40,9 +36,3 @@ cargo run
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can copy and paste this structure into your new `README.md` file and customize it further as needed.
