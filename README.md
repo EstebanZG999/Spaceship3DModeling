@@ -36,6 +36,11 @@ To run the application, use the following command:
 cargo run
 ```
 
+## Controls
+- WASD Rotate
+- QE Zoom
+- Arrows Up, down, left, right
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
